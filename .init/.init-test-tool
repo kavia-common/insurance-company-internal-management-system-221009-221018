@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/insurance-company-internal-management-system-221009-221018/frontend_management_portal"
+}
